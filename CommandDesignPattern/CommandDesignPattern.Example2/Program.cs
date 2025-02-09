@@ -9,7 +9,6 @@ ICommand acOff = new AirConditionerOffCommand(ac);
 
 RemoteControl remote = new RemoteControl();
 
-// Işığı aç, kapat ve geri al
 Console.WriteLine("▶ Controlling Light");
 remote.SetCommand(lightOn);
 remote.PressButton();

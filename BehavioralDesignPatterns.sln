@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPattern.Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPattern.Example2", "CommandDesignPattern\CommandDesignPattern.Example2\CommandDesignPattern.Example2.csproj", "{3AA56820-22C8-4CAA-8497-2E948418B4AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPattern.Example3", "CommandDesignPattern\CommandDesignPattern.Example3\CommandDesignPattern.Example3.csproj", "{AB30BEAF-C2C2-4A27-B9D1-770BB1955288}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{3AA56820-22C8-4CAA-8497-2E948418B4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AA56820-22C8-4CAA-8497-2E948418B4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AA56820-22C8-4CAA-8497-2E948418B4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB30BEAF-C2C2-4A27-B9D1-770BB1955288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB30BEAF-C2C2-4A27-B9D1-770BB1955288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB30BEAF-C2C2-4A27-B9D1-770BB1955288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB30BEAF-C2C2-4A27-B9D1-770BB1955288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,5 +59,6 @@ Global
 		{0A6C765F-2AC4-4270-B680-022A5F1A0365} = {E697BAAC-2748-4612-86A4-601A4F393277}
 		{D7CB1133-453C-43EA-9320-9289B967B3AA} = {8B6BE329-F2CF-4853-8588-D869BD9EFAFA}
 		{3AA56820-22C8-4CAA-8497-2E948418B4AD} = {8B6BE329-F2CF-4853-8588-D869BD9EFAFA}
+		{AB30BEAF-C2C2-4A27-B9D1-770BB1955288} = {8B6BE329-F2CF-4853-8588-D869BD9EFAFA}
 	EndGlobalSection
 EndGlobal
