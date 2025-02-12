@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IteratorDesignPattern", "It
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorDesignPattern.Example1", "IteratorDesignPattern\IteratorDesignPattern.Example1\IteratorDesignPattern.Example1.csproj", "{37A76188-C08F-43A0-8A9E-2EAA186E5768}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorDesignPattern.Example2", "IteratorDesignPattern\IteratorDesignPattern.Example2\IteratorDesignPattern.Example2.csproj", "{BF5D6BCD-7D9D-4A6A-9B36-04CF3DF1EB02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{37A76188-C08F-43A0-8A9E-2EAA186E5768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A76188-C08F-43A0-8A9E-2EAA186E5768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37A76188-C08F-43A0-8A9E-2EAA186E5768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5D6BCD-7D9D-4A6A-9B36-04CF3DF1EB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5D6BCD-7D9D-4A6A-9B36-04CF3DF1EB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5D6BCD-7D9D-4A6A-9B36-04CF3DF1EB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5D6BCD-7D9D-4A6A-9B36-04CF3DF1EB02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,5 +75,6 @@ Global
 		{3AA56820-22C8-4CAA-8497-2E948418B4AD} = {8B6BE329-F2CF-4853-8588-D869BD9EFAFA}
 		{AB30BEAF-C2C2-4A27-B9D1-770BB1955288} = {8B6BE329-F2CF-4853-8588-D869BD9EFAFA}
 		{37A76188-C08F-43A0-8A9E-2EAA186E5768} = {99FB34D0-BE7D-4D52-94B1-943C5EB0999C}
+		{BF5D6BCD-7D9D-4A6A-9B36-04CF3DF1EB02} = {99FB34D0-BE7D-4D52-94B1-943C5EB0999C}
 	EndGlobalSection
 EndGlobal
