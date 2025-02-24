@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDesignPattern.Examp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDesignPattern.Example3", "MediatorDesignPattern\MediatorDesignPattern.Example3\MediatorDesignPattern.Example3.csproj", "{010735EA-8E1A-4357-ABB9-7CE3392AF2B4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MementoDesignPattern", "MementoDesignPattern", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoDesignPattern.Example1", "MementoDesignPattern\MementoDesignPattern.Example1\MementoDesignPattern.Example1.csproj", "{A16EBDEB-0DF6-4E00-AC97-0969D9C640A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +87,10 @@ Global
 		{010735EA-8E1A-4357-ABB9-7CE3392AF2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{010735EA-8E1A-4357-ABB9-7CE3392AF2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{010735EA-8E1A-4357-ABB9-7CE3392AF2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16EBDEB-0DF6-4E00-AC97-0969D9C640A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16EBDEB-0DF6-4E00-AC97-0969D9C640A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16EBDEB-0DF6-4E00-AC97-0969D9C640A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16EBDEB-0DF6-4E00-AC97-0969D9C640A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,5 +107,9 @@ Global
 		{809BB8AD-915D-4201-A2BA-CB70249D5FDA} = {519E94DF-0F02-490B-8CA9-9D390E79ADF5}
 		{8533724B-2813-47AD-AF53-D007F4CC7F64} = {519E94DF-0F02-490B-8CA9-9D390E79ADF5}
 		{010735EA-8E1A-4357-ABB9-7CE3392AF2B4} = {519E94DF-0F02-490B-8CA9-9D390E79ADF5}
+		{A16EBDEB-0DF6-4E00-AC97-0969D9C640A0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC838BB-91B8-4B92-BA69-95A253446BDB}
 	EndGlobalSection
 EndGlobal
